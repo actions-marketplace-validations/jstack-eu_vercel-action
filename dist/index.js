@@ -30446,7 +30446,7 @@ const github = __nccwpck_require__(5438);
 const { execSync } = __nccwpck_require__(2081);
 const exec = __nccwpck_require__(1514);
 
-const VERCEL_BIN = 'vercel@25.1.0';
+const VERCEL_BIN = 'vercel@28.4.12';
 
 function getGithubCommentInput() {
   const input = core.getInput('github-comment');
