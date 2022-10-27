@@ -1,4 +1,4 @@
-name: 'Vercel Action (temp fix don't use)'
+name: 'Vercel Action Temp Fix Jstack'
 description: 'This action make a deployment with github actions instead of Vercel builder.'
 inputs:
   vercel-token:
